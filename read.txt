@@ -1,2 +1,6 @@
 "test2"
+<<<<<<< HEAD
 tes  2
+=======
+qqqqqq
+>>>>>>> da32d8b552e277ee921b62557219d4cfeca6e903
